@@ -1,0 +1,116 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+body {
+  font-family: "Young Serif", serif;
+}
+.container{
+    padding: 50px;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.section-one__contact {
+    background-color: red;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.section-one__name{
+    font-size:60px;
+    color: orange;
+}
+
+.section-one__role {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.section-two,.section-three,.section-four,.section-five{
+   margin-top: 10px;
+   padding-left: 50px;
+}
+.section-two__desc,.section-three__desc,.section-four__desc,.section-five__desc{
+   margin-top: 10px;
+   padding-top: 10px;
+
+}
+.section-five{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 30px;
+}
+.section-five__title a{
+    color: skyblue;
+    font-style:normal;
+}
+.section-three li,.section-four li{
+    list-style: none;
+}
+.section-three{
+    background-color: red;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+    
+    
+
+}
+.section-three li{
+    padding: 10px;
+}
+.section-four{
+    background-color: rgb(161, 112, 216);
+    color: white;
+    padding: 20px;
+    margin-left: 40px;
+    margin-bottom: 8px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+}
+.section-four__title,.section-four__topic{
+    padding: 4px;
+    text-align: justify;
+}
+
+.contact-form{
+margin-left: 40px;
+}
+.contact-form__input,.contact-form__textarea,.contact-form__submit{
+    margin-top: 10px;
+
+}
+.contact-form__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.contact-form__textarea{
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+}
+.contact-form__submit{
+    padding: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: red;
+    color: white;
+    border: none;
+
+}
