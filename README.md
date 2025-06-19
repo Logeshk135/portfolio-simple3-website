@@ -3,7 +3,7 @@
 This is a simple **portfolio website** built using **HTML** and **CSS**. The website includes only two pages — a **Home** page and a **Contact** page. It is fully responsive and designed to present a clean, minimal look.
 
 ##  Live Demo
-[View Website](https://yourusername.github.io/portfolio-website/)  
+[View Website]()  
 *(Replace this link with your actual GitHub Pages URL)*
 
 ##  Technologies Used
